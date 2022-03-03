@@ -13,7 +13,7 @@ body {
   background-color: #89b6ff;
 }
 
-.card{
+.card {
   background-size: cover;
   border-radius: 1rem;
 
@@ -23,7 +23,14 @@ body {
   background-color: #ffc5ed;
 }
 
-.badge{
+.badge {
   background-color: #89b6ff;
+}
 
+.card{
+  background-color: #89b6ff;
+}
+
+.card-img-top{
+  border-radius: 1rem;
 }
