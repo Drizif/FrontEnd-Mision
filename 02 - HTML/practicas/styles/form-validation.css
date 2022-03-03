@@ -1,14 +1,9 @@
-input[class="form-control"]::-webkit-outer-spin-button,
-input[class="form-control"]::-webkit-inner-spin-button {
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
     -webkit-appearance: none;
     margin: 0;
 }
 
-input[class="form-control"] {
+input[type="number"] {
     -moz-appearance: textfield;
-}
-
-.cant {
-    margin: 0;
-    -moz-appearance: spinner-textfield;
 }
