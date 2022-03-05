@@ -1,3 +1,3 @@
 # **UI**
 
-**Link →** [ui.drawio - Google Drive](https://drive.google.com/file/d/1v7LzXJrXPF3__5q53bKx_ptiCSBBycYJ/view)
+**Link →** [UI, Online Whiteboard for Visual Collaboration (miro.com)](https://miro.com/app/board/uXjVOHxl78Q=/)
